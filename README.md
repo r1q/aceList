@@ -1,6 +1,6 @@
-# aceList: Curate your A-List :sparkles:
+# aceList: Curate your A-List
 
-aceList is a self-contained subscription list management system using PHP, SQLite3 and jQuery (with a keen focus on UX)
+aceList is a self-contained subscription list management system using PHP, SQLite3 and jQuery (with a keen focus on UX) :sparkles:
 
 [![aceList](https://raw.githubusercontent.com/thinkdj/aceList/master/aceList/hero.png "aceList: Independent Self-hosted Subscription List Management system using PHP/SQLite/jQuery")](http://think.dj/projects/aceList)
 
@@ -24,8 +24,10 @@ aceList is a self-contained subscription list management system using PHP, SQLit
 - Upload all files to your server and make sure the db file is writable (default: `aceListSubscribers.db`)
 
 ## Admin
-- Admin Panel can be accessed via **`./aceList.php?admin`**
+- Admin Panel can be accessed via `./aceList.php?admin`
 - Login with the password (set in aceListConfig.php) to download your aceList
+
+PS: You can use a tool like [DB Browser](http://sqlitebrowser.org/) to view the SQLite3 database
 
 ### Todo
 
@@ -34,4 +36,4 @@ aceList is a self-contained subscription list management system using PHP, SQLit
 
 ------
 
-:o: Follow me [@thinkdj](https://twitter.com/thinkdj) 
+:large_blue_circle: Follow me [@thinkdj](https://twitter.com/thinkdj) 
