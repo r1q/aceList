@@ -14,7 +14,7 @@ body {
     position: relative;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-70%);
+    transform: translate(-50%,-50%);
     box-sizing: border-box;
     box-shadow: 0 0 20px rgba(0,0,0,0.05);
 }
