@@ -18,9 +18,9 @@ aceList is a self-contained subscription list management system using PHP, SQLit
 
 ## Getting Started
 - Download the archive, extract it
-- Edit `./aceListConfig.php` and make required changes (Admin Password, Language etc)
-- Edit `index.php` to make it your own 
-- If required, edit `./aceList/locale/{lang}.php` to change UI messages 
+- Edit `./aceListConfig.php` and make required changes - Admin Password, Language etc.
+- Edit `index.php` to make it your own (optional)
+- If required, edit `./aceList/locale/{lang}.php` to change UI messages (optional)
 - Upload all files to your server and make sure the db file is writable (default: `aceListSubscribers.db`)
 
 ## Admin
